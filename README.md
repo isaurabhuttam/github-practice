@@ -1,3 +1,3 @@
 # github-practice
 
-Practice project for github setup test.
+Practice project for github setup test!
